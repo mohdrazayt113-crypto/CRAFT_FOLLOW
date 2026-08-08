@@ -1,0 +1,13 @@
+Flask[async]
+requests
+aiohttp
+httpx
+protobuf
+googleapis-common-protos
+pycryptodome
+six
+Werkzeug
+pymongo
+dnspython
+python-dotenv
+apscheduler
