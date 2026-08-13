@@ -162,15 +162,6 @@
     "created_at": "2026-08-06T06:29:50.917975"
   },
   {
-    "uid": 6191510436,
-    "password": "MARUF_6569",
-    "name": "RAJA~₂₀₁₂",
-    "account_id": 16825033152,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:29:51.154671"
-  },
-  {
     "uid": 6191510720,
     "password": "MARUF_2934",
     "name": "RAJA~³⁵¹³",
@@ -268,15 +259,6 @@
     "region": "IND",
     "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
     "created_at": "2026-08-06T06:29:58.423668"
-  },
-  {
-    "uid": 6191512627,
-    "password": "MARUF_9240",
-    "name": "RAJA~²³⁴⁰",
-    "account_id": 16825034022,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:29:58.783056"
   },
   {
     "uid": 6191512973,
@@ -385,15 +367,6 @@
     "region": "IND",
     "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
     "created_at": "2026-08-06T06:30:10.873121"
-  },
-  {
-    "uid": 6191524876,
-    "password": "MARUF_7507",
-    "name": "BR_RAJA~₈₇₃₈",
-    "account_id": 16825041013,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:30:13.625227"
   },
   {
     "uid": 6191525150,
@@ -844,15 +817,6 @@
     "region": "IND",
     "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
     "created_at": "2026-08-06T06:31:27.563708"
-  },
-  {
-    "uid": 6191558520,
-    "password": "MARUF_8399",
-    "name": "RAJA~⁵⁹⁷⁷",
-    "account_id": 16825055481,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:31:28.300878"
   },
   {
     "uid": 6191571855,
@@ -1584,15 +1548,6 @@
     "created_at": "2026-08-06T06:34:12.147990"
   },
   {
-    "uid": 6191635313,
-    "password": "MARUF_5433",
-    "name": "BR_RAJA~₃₁₀₄",
-    "account_id": 16825091947,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:34:12.299635"
-  },
-  {
     "uid": 6191635684,
     "password": "MARUF_5148",
     "name": "RAJA~⁵⁵⁶⁸",
@@ -1638,15 +1593,6 @@
     "created_at": "2026-08-06T06:34:14.858760"
   },
   {
-    "uid": 6191636027,
-    "password": "MARUF_6734",
-    "name": "BR_RAJA~¹⁴⁷⁵",
-    "account_id": 16825092391,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:34:14.884569"
-  },
-  {
     "uid": 6191637343,
     "password": "MARUF_5957",
     "name": "BR_RAJA~₇₈₂₉",
@@ -1690,15 +1636,6 @@
     "region": "IND",
     "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
     "created_at": "2026-08-06T06:34:19.184727"
-  },
-  {
-    "uid": 6191638817,
-    "password": "MARUF_1991",
-    "name": "RAJA~₁₀₁₄",
-    "account_id": 16825093348,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:34:20.840545"
   },
   {
     "uid": 6191639104,
@@ -2736,15 +2673,6 @@
     "created_at": "2026-08-06T06:38:15.962518"
   },
   {
-    "uid": 6191752299,
-    "password": "MARUF_4532",
-    "name": "RAJA~₈₂₉₇",
-    "account_id": 16825144467,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:38:18.362653"
-  },
-  {
     "uid": 6191753015,
     "password": "MARUF_8926",
     "name": "BR_RAJA~⁷⁷⁶⁹",
@@ -3013,15 +2941,6 @@
     "region": "IND",
     "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
     "created_at": "2026-08-06T06:39:25.369911"
-  },
-  {
-    "uid": 6191784929,
-    "password": "MARUF_2689",
-    "name": "BR_RAJA~⁵⁰²³",
-    "account_id": 16825158791,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:39:27.660390"
   },
   {
     "uid": 6191785703,
@@ -3472,15 +3391,6 @@
     "region": "IND",
     "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
     "created_at": "2026-08-06T06:42:03.805744"
-  },
-  {
-    "uid": 6191854246,
-    "password": "MARUF_4516",
-    "name": "RAJA~₉₉₃₄",
-    "account_id": 16825193728,
-    "region": "IND",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
-    "created_at": "2026-08-06T06:42:04.157785"
   },
   {
     "uid": 6191857050,
